@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libraries">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/Projects/RabbitMQ_tutorials/amqp-client-4.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Projects/RabbitMQ_tutorials/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Projects/RabbitMQ_tutorials/slf4j-simple-1.7.22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
